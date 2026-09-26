@@ -1,0 +1,24 @@
+# Binaires générés
+bin/
+*.o
+*.bin
+*.elf
+*.img
+*.iso
+
+# Fichiers de build
+*.d
+*.map
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
